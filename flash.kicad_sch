@@ -5971,6 +5971,10 @@
 		(color 0 0 0 0)
 		(uuid "f89b7bda-b21a-41c0-b7dc-4bc0df340d00")
 	)
+	(no_connect
+		(at 58.42 158.75)
+		(uuid "a7eab9fb-866a-4f31-962c-c299dc61de30")
+	)
 	(wire
 		(pts
 			(xy 124.46 86.36) (xy 124.46 110.49)
@@ -6759,26 +6763,6 @@
 					(bold yes)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SD_DET"
-		(shape input)
-		(at 58.42 158.75 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "a8717dea-929f-494a-ac0e-f110a508de52")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 58.42 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 				(hide yes)
 			)
 		)

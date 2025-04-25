@@ -7402,28 +7402,6 @@
 			)
 		)
 	)
-	(global_label "FPDI_CEC"
-		(shape input)
-		(at 91.44 111.76 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "1b075022-885c-42b9-8fa5-39027a1f0f6a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 103.3152 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "GPDI_SCL"
 		(shape input)
 		(at 171.45 147.32 0)
@@ -7882,6 +7860,28 @@
 					(thickness 0.254)
 					(bold yes)
 				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "FPDI_CEC"
+		(shape input)
+		(at 91.44 109.22 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d63e0799-3fe4-4368-beac-2d1e3667bde7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 103.3152 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)

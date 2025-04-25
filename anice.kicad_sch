@@ -7403,6 +7403,28 @@
 			)
 		)
 	)
+	(global_label "SD_CMD"
+		(shape input)
+		(at 137.16 88.9 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e2ff3660-1236-4d41-abfc-12fb056ad6c0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 147.5837 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "CONN26"
 		(shape input)
 		(at 203.2 68.58 0)
