@@ -617,6 +617,12 @@
         },
         {
           "group_by": false,
+          "label": "MFG1",
+          "name": "MFG1",
+          "show": false
+        },
+        {
+          "group_by": false,
           "label": "MNF1_URL",
           "name": "MNF1_URL",
           "show": false

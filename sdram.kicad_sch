@@ -16256,6 +16256,28 @@
 			)
 		)
 	)
+	(global_label "CONN33"
+		(shape input)
+		(at 41.91 139.7 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0f19711b-dccb-4060-948b-6d86bcd4c20a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 31.2443 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SDRAM_A1"
 		(shape input)
 		(at 214.63 72.39 180)
@@ -16410,6 +16432,28 @@
 			)
 		)
 	)
+	(global_label "CONN26"
+		(shape input)
+		(at 114.3 129.54 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3b440fdd-d14c-49b4-bd11-705ea44edf28")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 103.6343 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "CONN35"
 		(shape input)
 		(at 114.3 91.44 180)
@@ -16423,6 +16467,28 @@
 		(uuid "3bb4c12e-f48f-4adf-89e9-6dfd747ce7fc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 103.6343 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CONN38"
+		(shape input)
+		(at 114.3 86.36 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "42114ffe-1654-4b07-97a2-4015b10c0e2a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 103.6343 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16780,6 +16846,28 @@
 					(thickness 0.254)
 					(bold yes)
 				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CONN32"
+		(shape input)
+		(at 114.3 121.92 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "669ec12a-a46b-4e2d-949a-710ac55764a1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 103.6343 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -17444,6 +17532,28 @@
 			)
 		)
 	)
+	(global_label "CONN27"
+		(shape input)
+		(at 114.3 68.58 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b7efe2ce-fd8e-4fbc-896d-6db3e9f32462")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 103.6343 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SDRAM_D14"
 		(shape input)
 		(at 64.77 60.96 0)
@@ -17484,6 +17594,28 @@
 					(thickness 0.254)
 					(bold yes)
 				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CONN23"
+		(shape input)
+		(at 114.3 124.46 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bc31318e-05ab-44bf-9e6e-11e182914745")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 103.6343 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -17666,6 +17798,50 @@
 			)
 		)
 	)
+	(global_label "CONN28"
+		(shape input)
+		(at 114.3 127 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d74260c7-232a-4f3f-a200-5fb6cadd659e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 103.6343 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CONN36"
+		(shape input)
+		(at 114.3 111.76 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d89c0153-b013-4fb7-b020-0a6b01b2db35")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 103.6343 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SDRAM_D15"
 		(shape input)
 		(at 114.3 53.34 180)
@@ -17706,6 +17882,28 @@
 					(thickness 0.254)
 					(bold yes)
 				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CONN31"
+		(shape input)
+		(at 114.3 93.98 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "da0e49e4-c837-41cd-86f1-deaea8edd8fa")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 103.6343 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -17816,6 +18014,28 @@
 					(thickness 0.254)
 					(bold yes)
 				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CONN29"
+		(shape input)
+		(at 114.3 76.2 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fb0bd08c-df17-4bb2-a11d-d094146fc864")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 103.6343 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
