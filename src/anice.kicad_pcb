@@ -8,8 +8,11 @@
 	)
 	(paper "A4")
 	(title_block
+		(title "Anice")
 		(date "2025-04-25")
 		(rev "v1r1")
+		(company "Cyao")
+		(comment 1 "https://github.com/cheyao/anice")
 	)
 	(layers
 		(0 "F.Cu" signal)
