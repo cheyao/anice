@@ -19220,6 +19220,7 @@
 		(property "Reference" "DM1"
 			(at -2.67 -0.47 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "77b24a7b-1a39-4307-8541-c4983f0fa2c9")
 			(effects
 				(font
@@ -19328,6 +19329,7 @@
 		(property "Reference" "5V2"
 			(at 0 1.648 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "59182af0-3b14-4b13-b78d-5f8a4138aaaf")
 			(effects
 				(font
@@ -19434,7 +19436,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R3"
-			(at 0 1.43 90)
+			(at 0 -1.43 90)
 			(layer "B.SilkS")
 			(uuid "4b1db577-b54b-4cc2-9246-a068fb457fca")
 			(effects
@@ -20530,6 +20532,7 @@
 		(property "Reference" "CMD1"
 			(at 0.6 1.6 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "c82d5a04-db68-4f19-a38e-c8b12d5de14b")
 			(effects
 				(font
@@ -20858,6 +20861,7 @@
 		(property "Reference" "DP1"
 			(at 0 1.648 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "870dedc1-ade6-4b7a-a72f-3b2e39bf13c6")
 			(effects
 				(font
@@ -21405,6 +21409,7 @@
 		(property "Reference" "2V1"
 			(at 0 1.648 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "22823505-68be-43bb-bd06-bfe6a49f53e7")
 			(effects
 				(font
@@ -23047,6 +23052,7 @@
 		(property "Reference" "CLK1"
 			(at -0.6 1.648 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "352a9ceb-66d0-495d-86bc-a0caea312896")
 			(effects
 				(font
@@ -23809,6 +23815,7 @@
 		(property "Reference" "1V1"
 			(at 0 1.648 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "b6ffeb5b-ddb9-4fa6-9722-4ecdae90c425")
 			(effects
 				(font
@@ -23917,6 +23924,7 @@
 		(property "Reference" "SD3"
 			(at 0.6 -1.6 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "36cc52c2-a2d6-4ea2-9d3a-c96331a8fad9")
 			(effects
 				(font
@@ -24025,6 +24033,7 @@
 		(property "Reference" "GND1"
 			(at 0 1.648 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "e7056fb8-1de7-4add-adc3-b1dded77363d")
 			(effects
 				(font
@@ -24134,7 +24143,8 @@
 		(property "Reference" "JP1"
 			(at 0 1.8 90)
 			(layer "B.SilkS")
-			(uuid "02dc9aa7-4929-4c31-8733-57ea8a3ee004")
+			(hide yes)
+			(uuid "cebd082b-e7cb-44b3-9409-f850a4832e1b")
 			(effects
 				(font
 					(size 1 1)
@@ -24146,7 +24156,7 @@
 		(property "Value" "Jumper_3_Bridged12"
 			(at 0 -1.9 90)
 			(layer "B.Fab")
-			(uuid "8015915a-8fa1-492a-b811-aa9272a76218")
+			(uuid "579ec27f-1be6-47a1-a8a1-40e3484e57ad")
 			(effects
 				(font
 					(size 1 1)
@@ -24160,7 +24170,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "04f94c72-c816-4216-b31d-acf93a1c6c59")
+			(uuid "9daf1111-e106-4a40-a878-6fdd4a725a7b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24174,7 +24184,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "2026f351-8695-4912-bfe6-81e7edc1e318")
+			(uuid "226cef35-15ef-44ed-b7fd-1c481911c333")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24705,6 +24715,7 @@
 		(property "Reference" "GND2"
 			(at 2.89 -0.29 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "444c3814-02c2-49a9-995c-8f6532c55bd8")
 			(effects
 				(font
@@ -24814,6 +24825,7 @@
 		(property "Reference" "SD2"
 			(at 2.4 0 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "3bd748ed-5747-4e42-84ee-a39f8a8bed1e")
 			(effects
 				(font
@@ -24922,6 +24934,7 @@
 		(property "Reference" "SD1"
 			(at 2.43 0.05 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "90fa26b1-f26b-4817-9fa3-2096c204e4ed")
 			(effects
 				(font
@@ -25906,6 +25919,7 @@
 		(property "Reference" "5V1"
 			(at 0 1.648 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "052483c3-3b22-4c4e-868a-e6b951012fd9")
 			(effects
 				(font
@@ -26122,6 +26136,7 @@
 		(property "Reference" "SD0"
 			(at 0.4 1.648 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "1a4eb4ce-d784-4295-8fc4-ec2e82330835")
 			(effects
 				(font
@@ -26448,6 +26463,7 @@
 		(property "Reference" "3V1"
 			(at 0 1.648 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "f179835b-5d29-4c52-a18b-418e778d13d9")
 			(effects
 				(font
@@ -26775,6 +26791,7 @@
 		(property "Reference" "GND3"
 			(at 0 1.648 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "3a88e09f-b39a-48b1-9e83-2936c80ae61e")
 			(effects
 				(font
