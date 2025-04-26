@@ -8100,7 +8100,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C1525"
 			(at 151.13 27.94 0)
 			(effects
 				(font
@@ -9065,7 +9065,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "f717e27e-b9fb-48cf-9ab1-88568cbf9ad8")
 		(property "Reference" "J1"

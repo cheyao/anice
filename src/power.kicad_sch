@@ -7793,6 +7793,14 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C19702"
+			(at 72.39 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ffea1c58-d50e-47c3-be56-3b2bf073dac8")
 		)
@@ -7858,6 +7866,14 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C22809"
+			(at 114.3 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "939c544d-284c-4a06-8a55-96355579e723")
 		)
@@ -7916,6 +7932,14 @@
 			)
 		)
 		(property "Description" ""
+			(at 119.38 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C25810"
 			(at 119.38 67.31 0)
 			(effects
 				(font
@@ -8052,7 +8076,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C19702"
 			(at 106.68 123.19 0)
 			(effects
 				(font
@@ -8126,6 +8150,14 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C22809"
+			(at 114.3 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d960c895-27fa-4eef-888f-b918ca2356b7")
 		)
@@ -8184,6 +8216,14 @@
 			)
 		)
 		(property "Description" ""
+			(at 119.38 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C22978"
 			(at 119.38 128.27 0)
 			(effects
 				(font
@@ -8320,7 +8360,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C14858"
 			(at 124.46 123.19 0)
 			(effects
 				(font
@@ -8531,6 +8571,14 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C22809"
+			(at 114.3 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "31e12ee7-d5b8-47de-a6e7-723d63d3a9da")
 		)
@@ -8589,6 +8637,14 @@
 			)
 		)
 		(property "Description" ""
+			(at 119.38 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C23162"
 			(at 119.38 97.79 0)
 			(effects
 				(font
@@ -8942,7 +8998,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C1525"
 			(at 246.38 74.93 0)
 			(effects
 				(font
@@ -9080,7 +9136,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C14858"
 			(at 124.46 92.71 0)
 			(effects
 				(font
@@ -9156,6 +9212,14 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C19702"
+			(at 72.39 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "36cce590-0ce0-4c27-a054-2226e8803e72")
 		)
@@ -9223,7 +9287,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C14858"
 			(at 124.46 62.23 0)
 			(effects
 				(font
@@ -9302,7 +9366,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C1525"
 			(at 208.28 74.93 0)
 			(effects
 				(font
@@ -9461,6 +9525,14 @@
 			)
 		)
 		(property "Description" ""
+			(at 72.39 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C19702"
 			(at 72.39 102.87 0)
 			(effects
 				(font
@@ -10853,7 +10925,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C1525"
 			(at 233.68 74.93 0)
 			(effects
 				(font
@@ -11180,6 +11252,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C19702"
+			(at 196.85 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ae3979e3-2ae5-45b6-8389-b9cfe9d6d0e5")
 		)
@@ -11309,7 +11389,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C19702"
 			(at 106.68 92.71 0)
 			(effects
 				(font
@@ -11388,7 +11468,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C1525"
 			(at 220.98 74.93 0)
 			(effects
 				(font
@@ -11624,6 +11704,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C19702"
+			(at 184.15 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "eef8aa42-a8d4-4280-bf86-159385e12119")
 		)
@@ -11691,7 +11779,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C19702"
 			(at 106.68 62.23 0)
 			(effects
 				(font

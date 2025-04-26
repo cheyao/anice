@@ -16278,6 +16278,28 @@
 			)
 		)
 	)
+	(global_label "LED1"
+		(shape input)
+		(at 214.63 115.57 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "10afd5f6-ee72-4360-860c-74b76a1f0438")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 214.63 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+				)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SDRAM_A1"
 		(shape input)
 		(at 214.63 72.39 180)
@@ -18219,7 +18241,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C19702"
 			(at 222.25 36.83 0)
 			(effects
 				(font
@@ -20280,7 +20302,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C1525"
 			(at 133.35 35.56 0)
 			(effects
 				(font
@@ -20425,7 +20447,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C1525"
 			(at 48.26 113.03 0)
 			(effects
 				(font
@@ -20504,7 +20526,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C1525"
 			(at 233.68 36.83 0)
 			(effects
 				(font
@@ -21625,7 +21647,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C1525"
 			(at 246.38 36.83 0)
 			(effects
 				(font
@@ -21898,7 +21920,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
+		(property "LCSC Part" "C19702"
 			(at 121.92 35.56 0)
 			(effects
 				(font
