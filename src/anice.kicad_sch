@@ -8100,13 +8100,12 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C1525"
+		(property "JLCPCB Part #" "C1525"
 			(at 151.13 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -8302,15 +8301,6 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 252.73 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" ""
 			(at 252.73 147.32 0)
 			(effects
 				(font
@@ -9111,15 +9101,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" ""
-			(at 195.58 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "30"
 			(uuid "90965269-96a7-4d2e-8042-ce688dfd2c35")
 		)
@@ -9308,13 +9289,12 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" " C1521614"
+		(property "JLCPCB Part #" " C1521614"
 			(at 116.84 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "R4"

@@ -25203,10 +25203,10 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Change files on the right side!!! ->\nThese two pcbs will be joined together physically"
-		(at 159.65 29.17 0)
+	(gr_text "Change files on the right side!!! ->\nThese two pcbs will be joined together physically\n\nScroll to zoom,\nRight click & drag to pan"
+		(at 161.01 44.9 0)
 		(layer "Cmts.User")
-		(uuid "61debe0e-a98d-4099-89e0-34c8f6790e40")
+		(uuid "a7e94005-95a1-483e-b098-de9cc7e2bc59")
 		(effects
 			(font
 				(size 3 3)
