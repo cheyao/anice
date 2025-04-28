@@ -27,6 +27,8 @@ The second, called "anice":
 
 View online demo on [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fcheyao%2Fanice%2Ftree%2Fmain%2Fsrc%2F)!
 
+The repo stucture is a bit messy because I wanted the two designs to appear together on kicanvas.
+
 ## Anice:
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/70d659c12deafe876fc1503fcd26827a245099ee_image.png)
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3c03c84bba89d85bb84375060f88e98dae796522_image.png)
