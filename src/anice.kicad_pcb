@@ -9,7 +9,7 @@
 	(paper "A4")
 	(title_block
 		(title "Anice")
-		(date "2025-04-25")
+		(date "2025-04-26")
 		(rev "v1r2")
 		(company "Cyao")
 		(comment 1 "https://github.com/cheyao/anice")
